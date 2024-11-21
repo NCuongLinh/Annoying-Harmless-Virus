@@ -5,6 +5,8 @@ This script may cause frustration for non-technical users.
 
 While you can use this to prank your friends or family, you must be knowledgeable and responsible enough to fix any issues it causes.
 
+<img src="https://i.imgur.com/mjilBfx.png" style="width: 600px;height:auto">
+
 ## ⚠️ Warning
 
 Although it is relatively easy to remove this script, misuse can result in severe consequences (primarily for non-technical users), including system slowdowns and persistent disruptions.
@@ -36,9 +38,6 @@ Quickly after starting your computer, follow these steps to remove the script:
 2. Navigate to the Startup tab.
 3. Look for the entry annoying.bat in the list.
 4. Right-click on it and select Disable to stop it from running at startup.
-
-<img src="https://i.imgur.com/mjilBfx.png" style="width: 600px;height:auto">
-
 
 ## ⚠️ Disclaimer
 
