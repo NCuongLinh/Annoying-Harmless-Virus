@@ -7,7 +7,9 @@ While you can use this to prank your friends or family, you must be knowledgeabl
 
 <img src="https://i.imgur.com/mjilBfx.png" style="width: 600px;height:auto">
 
-## ⚠️ Warning
+## ⚠️ Warning 
+
+This batch script is not detected by Windows Defender.
 
 Although it is relatively easy to remove this script, misuse can result in severe consequences (primarily for non-technical users), including system slowdowns and persistent disruptions.
 Features
@@ -42,8 +44,6 @@ Quickly after starting your computer, follow these steps to remove the script:
 ## ⚠️ Disclaimer
 
 This script is intended for educational and research purposes only. It is designed to demonstrate the potential impact of malicious batch files on a system. Do not use this script on production systems or without proper authorization.
-
-Windows Defender can't detect this.
 
 Legal Notice
 The author of this repository is not responsible for any damage caused by the misuse of this script. By downloading or using this script, you agree to take full responsibility for your actions and any consequences that may result.
